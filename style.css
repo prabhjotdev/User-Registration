@@ -1,0 +1,18 @@
+body{
+ margin: 0 auto;
+ margin-top: 50px;
+ padding-bottom: 10px;
+ text-align: center;
+ width: 50%;
+ background-color: #FCFBE3;
+ border: 5px solid blue;
+ border-radius: 20px;
+ box-shadow:10px 10px 50px 20px pink inset;
+ }
+ p{
+ color: red;
+ }
+
+ .error{
+   color: red;
+ }
